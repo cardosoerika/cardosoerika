@@ -4,7 +4,7 @@
 - 👩‍🏭 Técnica de Produção                                                                  
 - 📚 Cursando Engenharia de Software
 - 💻 Cursando BootCamp Backend JAVA
-- ☁️ Descubra a Nuvem AWS - Nexa Resources
+- ☁️Cursando BootCamp Descubra a Nuvem AWS - Nexa Resources
 
   
 ## Conecte-se comigo
